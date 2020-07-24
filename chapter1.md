@@ -15,6 +15,47 @@ skills: 2
 ```
 
 This is an example exercise.
+# Test the comment
+
+`@instructions`
+[www.facebook.com]()
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+import pandas as pd
+```
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+df = pd.DataFrame({'a':2, 
+                   'b':4}
+                 )
+```
+
+`@sct`
+```{python}
+
+```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: 011bbb8da8
+xp: 100
+```
+
+
 
 `@instructions`
 
